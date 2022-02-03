@@ -1,2 +1,4 @@
 # Gitgithub
- Curso de Git e Github
+ Curso de Git e Github Olá mundo, porque, conhecimento é tudo!
+ Repositório criado no curso professor Guanabara sobre a premissa citada.
+
